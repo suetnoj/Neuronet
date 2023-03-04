@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suetnoj.Neuronet", "Suetnoj.Neuronet\Suetnoj.Neuronet.csproj", "{9C5A68DF-7640-4C44-AB54-F6F3D886F53D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suetnoj.Neuronet.Tests", "Suetnoj.Neuronet.Tests\Suetnoj.Neuronet.Tests.csproj", "{1FF8A869-DC9A-4780-9BA1-C5E1EE2CBF57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C5A68DF-7640-4C44-AB54-F6F3D886F53D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5A68DF-7640-4C44-AB54-F6F3D886F53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5A68DF-7640-4C44-AB54-F6F3D886F53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5A68DF-7640-4C44-AB54-F6F3D886F53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FF8A869-DC9A-4780-9BA1-C5E1EE2CBF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF8A869-DC9A-4780-9BA1-C5E1EE2CBF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF8A869-DC9A-4780-9BA1-C5E1EE2CBF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF8A869-DC9A-4780-9BA1-C5E1EE2CBF57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
